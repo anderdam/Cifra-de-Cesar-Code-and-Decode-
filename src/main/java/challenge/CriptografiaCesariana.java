@@ -23,7 +23,6 @@ public class CriptografiaCesariana implements Criptografia {
         } else {
             throw new IllegalArgumentException();
         }
-        //throw new UnsupportedOperationException("esse method nao esta implementado ainda");
     }
 
     @Override
@@ -48,7 +47,5 @@ public class CriptografiaCesariana implements Criptografia {
         } else {
             throw new IllegalArgumentException();
         }
-
-        //throw new UnsupportedOperationException("esse method nao esta implementado ainda");
     }
 }
